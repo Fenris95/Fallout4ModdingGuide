@@ -1,0 +1,2 @@
+<source lang="css" line> body.page-Main_Page h1.firstHeading{display:none}table.collapsed tr.collapsible{display:none}.collapseButton{float:right;font-weight:normal;text-align:right;width:auto;margin:0px 5px}.nonumtoc .tocnumber{display:none}.nonumtoc #toc ul,.nonumtoc .toc ul{line-height:1.5em;list-style:none;margin:.3em 0 0;padding:0}.nonumtoc #toc ul ul,.nonumtoc .toc ul ul{margin:0 0 0 2em}</source>
+/* cache key: mwiki-765_:resourceloader:filter:minify-css:7:09fb05c553a30fca694e80f9a05d1125 */
